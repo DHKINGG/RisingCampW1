@@ -107,7 +107,7 @@
                     <FrameLayout
                         android:layout_width="100dp"
                         android:layout_height="match_parent"
-                        android:layout_marginLeft="5dp"
+                        android:layout_marginLeft="20dp"
                         android:layout_marginTop="10dp"
                         android:layout_marginBottom="10dp">
 
@@ -367,7 +367,7 @@
                         android:layout_height="match_parent"
                         android:layout_marginLeft="10dp"
                         android:layout_marginTop="10dp"
-                        android:layout_marginRight="5dp"
+                        android:layout_marginRight="20dp"
                         android:layout_marginBottom="10dp"
                         android:background="@drawable/round_more_layout">
 
@@ -412,47 +412,47 @@
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="0dp"
-                            android:layout_weight="3"
-                            android:layout_marginRight="15dp"
                             android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_weight="3"
                             android:src="@drawable/menu1" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="0dp"
+                            android:layout_gravity="center"
                             android:layout_weight="1"
                             android:text="1인분"
                             android:textColor="@color/black"
-                            android:layout_gravity="center"
-                            android:textStyle="bold"
-                            android:textSize="12dp"/>
+                            android:textSize="12dp"
+                            android:textStyle="bold" />
 
                     </LinearLayout>
 
                     <LinearLayout
                         android:layout_width="20dp"
                         android:layout_height="80dp"
+                        android:background="@color/white"
                         android:gravity="center"
-                        android:orientation="vertical"
-                        android:background="@color/white">
+                        android:orientation="vertical">
 
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="0dp"
-                            android:layout_weight="3"
-                            android:layout_marginRight="15dp"
                             android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_weight="3"
                             android:src="@drawable/menu2" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="0dp"
+                            android:layout_gravity="center"
                             android:layout_weight="1"
                             android:text="족발•보쌈"
                             android:textColor="@color/black"
-                            android:layout_gravity="center"
-                            android:textStyle="bold"
-                            android:textSize="12dp"/>
+                            android:textSize="12dp"
+                            android:textStyle="bold" />
                     </LinearLayout>
 
                     <LinearLayout
@@ -464,20 +464,20 @@
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="0dp"
-                            android:layout_weight="3"
-                            android:layout_marginRight="15dp"
                             android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_weight="3"
                             android:src="@drawable/menu3" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="0dp"
+                            android:layout_gravity="center"
                             android:layout_weight="1"
                             android:text="찜•탕•찌개"
                             android:textColor="@color/black"
-                            android:layout_gravity="center"
-                            android:textStyle="bold"
-                            android:textSize="12dp"/>
+                            android:textSize="12dp"
+                            android:textStyle="bold" />
                     </LinearLayout>
 
                     <LinearLayout
@@ -497,12 +497,12 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="0dp"
+                            android:layout_gravity="center"
                             android:layout_weight="1"
                             android:text="돈까스•회•일식"
                             android:textColor="@color/black"
-                            android:layout_gravity="center"
-                            android:textStyle="bold"
-                            android:textSize="12dp"/>
+                            android:textSize="12dp"
+                            android:textStyle="bold" />
                     </LinearLayout>
 
                     <LinearLayout
@@ -514,20 +514,20 @@
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="0dp"
-                            android:layout_weight="3"
-                            android:layout_marginRight="15dp"
                             android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_weight="3"
                             android:src="@drawable/menu5" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="0dp"
+                            android:layout_gravity="center"
                             android:layout_weight="1"
                             android:text="피자"
                             android:textColor="@color/black"
-                            android:layout_gravity="center"
-                            android:textStyle="bold"
-                            android:textSize="12dp"/>
+                            android:textSize="12dp"
+                            android:textStyle="bold" />
                     </LinearLayout>
 
                 </TableRow>
@@ -544,20 +544,20 @@
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="0dp"
-                            android:layout_weight="3"
-                            android:layout_marginRight="15dp"
                             android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_weight="3"
                             android:src="@drawable/menu6" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="0dp"
+                            android:layout_gravity="center"
                             android:layout_weight="1"
                             android:text="고기•보쌈"
                             android:textColor="@color/black"
-                            android:layout_gravity="center"
-                            android:textStyle="bold"
-                            android:textSize="12dp"/>
+                            android:textSize="12dp"
+                            android:textStyle="bold" />
                     </LinearLayout>
 
                     <LinearLayout
@@ -569,20 +569,20 @@
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="0dp"
-                            android:layout_weight="3"
-                            android:layout_marginRight="15dp"
                             android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_weight="3"
                             android:src="@drawable/menu7" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="0dp"
+                            android:layout_gravity="center"
                             android:layout_weight="1"
                             android:text="야식"
                             android:textColor="@color/black"
-                            android:layout_gravity="center"
-                            android:textStyle="bold"
-                            android:textSize="12dp"/>
+                            android:textSize="12dp"
+                            android:textStyle="bold" />
                     </LinearLayout>
 
                     <LinearLayout
@@ -590,23 +590,24 @@
                         android:layout_height="80dp"
                         android:gravity="center"
                         android:orientation="vertical">
+
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="0dp"
-                            android:layout_weight="3"
-                            android:layout_marginRight="15dp"
                             android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_weight="3"
                             android:src="@drawable/menu8" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="0dp"
+                            android:layout_gravity="center"
                             android:layout_weight="1"
                             android:text="양식"
                             android:textColor="@color/black"
-                            android:layout_gravity="center"
-                            android:textStyle="bold"
-                            android:textSize="12dp"/>
+                            android:textSize="12dp"
+                            android:textStyle="bold" />
                     </LinearLayout>
 
                     <LinearLayout
@@ -614,23 +615,24 @@
                         android:layout_height="80dp"
                         android:gravity="center"
                         android:orientation="vertical">
+
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="0dp"
-                            android:layout_weight="3"
-                            android:layout_marginRight="15dp"
                             android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_weight="3"
                             android:src="@drawable/menu9" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="0dp"
+                            android:layout_gravity="center"
                             android:layout_weight="1"
                             android:text="치킨"
                             android:textColor="@color/black"
-                            android:layout_gravity="center"
-                            android:textStyle="bold"
-                            android:textSize="12dp"/>
+                            android:textSize="12dp"
+                            android:textStyle="bold" />
                     </LinearLayout>
 
                     <LinearLayout
@@ -638,23 +640,24 @@
                         android:layout_height="80dp"
                         android:gravity="center"
                         android:orientation="vertical">
+
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="0dp"
-                            android:layout_weight="3"
-                            android:layout_marginRight="15dp"
                             android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_weight="3"
                             android:src="@drawable/menu10" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="0dp"
+                            android:layout_gravity="center"
                             android:layout_weight="1"
                             android:text="중식"
                             android:textColor="@color/black"
-                            android:layout_gravity="center"
-                            android:textStyle="bold"
-                            android:textSize="12dp"/>
+                            android:textSize="12dp"
+                            android:textStyle="bold" />
                     </LinearLayout>
 
                 </TableRow>
@@ -671,20 +674,20 @@
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="0dp"
-                            android:layout_weight="3"
-                            android:layout_marginRight="15dp"
                             android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_weight="3"
                             android:src="@drawable/menu11" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="0dp"
+                            android:layout_gravity="center"
                             android:layout_weight="1"
                             android:text="아시안"
                             android:textColor="@color/black"
-                            android:layout_gravity="center"
-                            android:textStyle="bold"
-                            android:textSize="12dp"/>
+                            android:textSize="12dp"
+                            android:textStyle="bold" />
                     </LinearLayout>
 
                     <LinearLayout
@@ -696,20 +699,20 @@
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="0dp"
-                            android:layout_weight="3"
-                            android:layout_marginRight="15dp"
                             android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_weight="3"
                             android:src="@drawable/menu12" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="0dp"
+                            android:layout_gravity="center"
                             android:layout_weight="1"
                             android:text="백반•죽•국수"
                             android:textColor="@color/black"
-                            android:layout_gravity="center"
-                            android:textStyle="bold"
-                            android:textSize="12dp"/>
+                            android:textSize="12dp"
+                            android:textStyle="bold" />
                     </LinearLayout>
 
                     <LinearLayout
@@ -721,20 +724,20 @@
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="0dp"
-                            android:layout_weight="3"
-                            android:layout_marginRight="15dp"
                             android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_weight="3"
                             android:src="@drawable/menu13" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="0dp"
+                            android:layout_gravity="center"
                             android:layout_weight="1"
                             android:text="도시락"
                             android:textColor="@color/black"
-                            android:layout_gravity="center"
-                            android:textStyle="bold"
-                            android:textSize="12dp"/>
+                            android:textSize="12dp"
+                            android:textStyle="bold" />
                     </LinearLayout>
 
                     <LinearLayout
@@ -746,20 +749,20 @@
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="0dp"
-                            android:layout_weight="3"
-                            android:layout_marginRight="15dp"
                             android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_weight="3"
                             android:src="@drawable/menu14" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="0dp"
+                            android:layout_gravity="center"
                             android:layout_weight="1"
                             android:text="분식"
                             android:textColor="@color/black"
-                            android:layout_gravity="center"
-                            android:textStyle="bold"
-                            android:textSize="12dp"/>
+                            android:textSize="12dp"
+                            android:textStyle="bold" />
                     </LinearLayout>
 
                     <LinearLayout
@@ -771,20 +774,20 @@
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="0dp"
-                            android:layout_weight="3"
-                            android:layout_marginRight="15dp"
                             android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_weight="3"
                             android:src="@drawable/menu15" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="0dp"
+                            android:layout_gravity="center"
                             android:layout_weight="1"
                             android:text="카페•디저트"
                             android:textColor="@color/black"
-                            android:layout_gravity="center"
-                            android:textStyle="bold"
-                            android:textSize="12dp"/>
+                            android:textSize="12dp"
+                            android:textStyle="bold" />
                     </LinearLayout>
 
                 </TableRow>
@@ -801,20 +804,20 @@
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="0dp"
-                            android:layout_weight="3"
-                            android:layout_marginRight="15dp"
                             android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_weight="3"
                             android:src="@drawable/menu16" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="0dp"
+                            android:layout_gravity="center"
                             android:layout_weight="1"
                             android:text="패스트푸드"
                             android:textColor="@color/black"
-                            android:layout_gravity="center"
-                            android:textStyle="bold"
-                            android:textSize="12dp"/>
+                            android:textSize="12dp"
+                            android:textStyle="bold" />
                     </LinearLayout>
 
                     <LinearLayout
@@ -826,20 +829,20 @@
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="0dp"
-                            android:layout_weight="3"
-                            android:layout_marginRight="15dp"
                             android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_weight="3"
                             android:src="@drawable/menu17" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="0dp"
+                            android:layout_gravity="center"
                             android:layout_weight="1"
                             android:text="채식"
                             android:textColor="@color/black"
-                            android:layout_gravity="center"
-                            android:textStyle="bold"
-                            android:textSize="12dp"/>
+                            android:textSize="12dp"
+                            android:textStyle="bold" />
                     </LinearLayout>
 
                     <LinearLayout
@@ -851,20 +854,20 @@
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="0dp"
-                            android:layout_weight="3"
-                            android:layout_marginRight="15dp"
                             android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_weight="3"
                             android:src="@drawable/menu18" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="0dp"
+                            android:layout_gravity="center"
                             android:layout_weight="1"
                             android:text="브랜드관"
                             android:textColor="@color/black"
-                            android:layout_gravity="center"
-                            android:textStyle="bold"
-                            android:textSize="12dp"/>
+                            android:textSize="12dp"
+                            android:textStyle="bold" />
                     </LinearLayout>
 
                     <LinearLayout
@@ -876,20 +879,20 @@
                         <ImageView
                             android:layout_width="match_parent"
                             android:layout_height="0dp"
-                            android:layout_weight="3"
-                            android:layout_marginRight="15dp"
                             android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_weight="3"
                             android:src="@drawable/menu19" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="0dp"
+                            android:layout_gravity="center"
                             android:layout_weight="1"
                             android:text="맛집랭킹"
                             android:textColor="@color/black"
-                            android:layout_gravity="center"
-                            android:textStyle="bold"
-                            android:textSize="12dp"/>
+                            android:textSize="12dp"
+                            android:textStyle="bold" />
                     </LinearLayout>
 
                     <androidx.constraintlayout.widget.ConstraintLayout
@@ -900,11 +903,11 @@
                         <View
                             android:layout_width="3dp"
                             android:layout_height="3dp"
-                            app:layout_constraintTop_toTopOf="parent"
+                            android:background="#444444"
                             app:layout_constraintBottom_toBottomOf="parent"
                             app:layout_constraintLeft_toLeftOf="parent"
                             app:layout_constraintRight_toRightOf="parent"
-                            android:background="#444444"/>
+                            app:layout_constraintTop_toTopOf="parent" />
 
                     </androidx.constraintlayout.widget.ConstraintLayout>
 
@@ -916,21 +919,139 @@
             <View
                 android:layout_width="match_parent"
                 android:layout_height="20dp"
-                android:background="@color/black" />
+                android:background="#f6f6f6" />
 
             <HorizontalScrollView
                 android:layout_width="wrap_content"
                 android:layout_height="40dp"
-                android:background="#ABCABC"
+                android:background="@color/white"
                 android:fillViewport="true">
 
                 <LinearLayout
-                    android:layout_width="match_parent"
+                    android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:orientation="horizontal">
 
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="20dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:text="기본순"
+                            android:textSize="15dp"
+                            android:textColor="#8a8a8a"/>
+
+                        <ImageView
+                            android:layout_width="15dp"
+                            android:layout_height="15dp"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="8dp"
+                            android:src="@drawable/down_arrow2" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="18dp"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:layout_width="15dp"
+                            android:layout_height="15dp"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginRight="3dp"
+                            android:src="@drawable/coupon" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:text="쿠폰"
+                            android:textSize="15dp"
+                            android:textColor="#8a8a8a" />
+
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="18dp"
+                        android:orientation="horizontal">
+
+
+                        <ImageView
+                            android:layout_width="15dp"
+                            android:layout_height="15dp"
+                            android:layout_gravity="center_vertical"
+                            android:src="@drawable/finger" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="3dp"
+                            android:text="1인분"
+                            android:textSize="15dp"
+                            android:textColor="#8a8a8a" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="18dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:text="최소주문금액"
+                            android:textSize="15dp"
+                            android:textColor="#8a8a8a" />
+
+                        <ImageView
+                            android:layout_width="15dp"
+                            android:layout_height="15dp"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="8dp"
+                            android:src="@drawable/down_arrow2" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginRight="20dp"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:layout_gravity="center_vertical"
+                            android:src="@drawable/etc" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="3dp"
+                            android:text="기타"
+                            android:textSize="15dp"
+                            android:textColor="#8a8a8a" />
+
+                    </LinearLayout>
 
                 </LinearLayout>
+
 
             </HorizontalScrollView>
 
