@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Donghwi/AndroidStudioProjects/RisingCampW1/app/src/main/res/layout/activity_main.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/Donghwi/AndroidStudioProjects/RisingCampW1/app/src/main/res/drawable/round_frame_layout.xml" value="0.1565" />
+        <entry key="..\:/Users/Donghwi/AndroidStudioProjects/RisingCampW1/app/src/main/res/drawable/round_more_layout.xml" value="0.1565" />
+        <entry key="..\:/Users/Donghwi/AndroidStudioProjects/RisingCampW1/app/src/main/res/drawable/round_sale_layout.xml" value="0.1" />
+        <entry key="..\:/Users/Donghwi/AndroidStudioProjects/RisingCampW1/app/src/main/res/layout/activity_main.xml" value="0.264" />
       </map>
     </option>
   </component>
