@@ -1101,7 +1101,7 @@
                                     app:layout_constraintBottom_toBottomOf="parent"
                                     app:layout_constraintRight_toRightOf="parent"
                                     app:layout_constraintLeft_toLeftOf="parent"
-                                    android:src="@drawable/food_pork"
+                                    android:src="@drawable/food1"
                                     android:scaleType="centerCrop"/>
 
                             </androidx.constraintlayout.widget.ConstraintLayout>
@@ -1119,7 +1119,7 @@
                                     app:layout_constraintBottom_toBottomOf="parent"
                                     app:layout_constraintRight_toRightOf="parent"
                                     app:layout_constraintLeft_toLeftOf="parent"
-                                    android:src="@drawable/food_88"
+                                    android:src="@drawable/food2"
                                     android:scaleType="centerCrop"/>
 
                             </androidx.constraintlayout.widget.ConstraintLayout>
@@ -1137,7 +1137,7 @@
                                     app:layout_constraintBottom_toBottomOf="parent"
                                     app:layout_constraintRight_toRightOf="parent"
                                     app:layout_constraintLeft_toLeftOf="parent"
-                                    android:src="@drawable/food_77"
+                                    android:src="@drawable/food3"
                                     android:scaleType="centerCrop"/>
 
                             </androidx.constraintlayout.widget.ConstraintLayout>
@@ -1300,7 +1300,7 @@
                                     app:layout_constraintBottom_toBottomOf="parent"
                                     app:layout_constraintRight_toRightOf="parent"
                                     app:layout_constraintLeft_toLeftOf="parent"
-                                    android:src="@drawable/cafe1"
+                                    android:src="@drawable/food4"
                                     android:scaleType="centerCrop"/>
 
                             </androidx.constraintlayout.widget.ConstraintLayout>
@@ -1318,7 +1318,7 @@
                                     app:layout_constraintBottom_toBottomOf="parent"
                                     app:layout_constraintRight_toRightOf="parent"
                                     app:layout_constraintLeft_toLeftOf="parent"
-                                    android:src="@drawable/cafe2"
+                                    android:src="@drawable/food55"
                                     android:scaleType="centerCrop"/>
 
                             </androidx.constraintlayout.widget.ConstraintLayout>
@@ -1336,7 +1336,7 @@
                                     app:layout_constraintBottom_toBottomOf="parent"
                                     app:layout_constraintRight_toRightOf="parent"
                                     app:layout_constraintLeft_toLeftOf="parent"
-                                    android:src="@drawable/cafe3"
+                                    android:src="@drawable/food6"
                                     android:scaleType="centerCrop"/>
 
                             </androidx.constraintlayout.widget.ConstraintLayout>
